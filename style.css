@@ -1,0 +1,81 @@
+body{
+background-color: #171717;
+background-position: center;
+background-size:1200px auto;
+font-size:16pt;
+font-family:"Century gothic";
+}
+.pagina_principal{
+background-color: #171717;
+background-position: center;
+
+}
+
+
+h1{
+color:#EB3DD3;
+font-size:80pt;
+text-align: center;
+}
+h2{
+color:#E7ACE8;
+text-align: center;
+}
+
+/*texto dropbox  */
+.texto h2{
+color:#7211FF;
+font-size:17pt;
+text-align: center;	
+}
+/*titulos musicas  */
+.texto h1{
+color:#E7ACE8;
+text-align: center;
+font-size:35pt;
+}
+/*borda da pagina de musicas  */
+.borda {
+border-top:solid 1px #F8D3FF;	
+width:100%;
+}
+/*titulo borda da pagina de musicas  */
+.borda h1{
+color:#EB3DD3;
+font-size:60pt;
+text-align: center;	
+}
+/*margens do video  */
+.video{
+margin-left:22%;
+margin-right:22%;	
+	
+}
+
+/*classe para os textos dos card da home  */
+.paragraf{
+color:#171717;
+margin-left:16%;
+margin-right:16%;
+font-size:18pt;
+}
+/*classe para os textos dos card do membros  */
+.paragrafo {
+color:#171717;
+margin-left:20%;
+margin-right:20%;
+font-size:18pt;
+}
+.button {
+text-align: center;	
+}
+.text_button{
+color:#171717;
+margin-left:13%;
+margin-right:13%;	
+font-size:15pt;
+font-family:helvetica;
+}
+
+
+style="color:red;"
